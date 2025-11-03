@@ -19,7 +19,7 @@ function getComputerChoice(){
 }
 
 function getHumanChoice(){
-    let answer = prompt("test")
+    let answer = prompt("this is a Rock-Paper-Scissors game \n type Rock, Paepr, or Scissors!")
     return answer
 }
 
