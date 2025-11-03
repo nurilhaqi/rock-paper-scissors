@@ -5,3 +5,6 @@
 # How to play
 * To see the result, open console by pressing F12 button
 * Or, right-click on the page and choose inspect and go to console
+
+# TRY IT NOW!
+https://nurilhaqi.github.io/rock-paper-scissors/
